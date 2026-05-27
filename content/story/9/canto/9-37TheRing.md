@@ -4,9 +4,9 @@ title: 9-37 Безымянный палец
 # Перед битвой
 <table>
 	<tr>
-		<th>Иконка</th>
+		<th style="width:0">Иконка</th>
 		<th>Говорящий</th>
-		<th>Диалог</th>
+		<th style="width:75%">Диалог</th>
 	</tr>
 	<tr>
 		<td colspan="3" style="text-align:center"><b><i>Локация: Коридор Безымянного пальца</i></b><br><img src="SBG_ring_finger.png"></td>
@@ -341,9 +341,9 @@ title: 9-37 Безымянный палец
 # Во время битвы
 <table>
 	<tr>
-		<th>Иконка</th>
+		<th style="width:0">Иконка</th>
 		<th>Говорящий</th>
-		<th>Диалог</th>
+		<th style="width:75%">Диалог</th>
 	</tr>
 	<tr>
 		<td colspan="3" style="text-align:center"><b><i>Локация: Коридор Безымянного пальца</i></b><br><img src="SBG_ring_finger.png"></td>
@@ -451,7 +451,7 @@ title: 9-37 Безымянный палец
 	<tr>
 		<td><img src="SL_Alyssa.png"></td>
 		<td><i>Исследовательская команда LCE</i><br>Алисса</td>
-		<td>Я лучше выдавлю собственные глаза, ты, ёбанный убийца...!</td>
+		<td>Я лучше выдавлю собственные глаза, ты, грёбанный убийца...!</td>
 	</tr>
 </table>
 
@@ -460,7 +460,7 @@ title: 9-37 Безымянный палец
 	<tr>
 		<th style="width:0">Иконка</th>
 		<th>Говорящий</th>
-		<th>Диалог</th>
+		<th style="width:75%">Диалог</th>
 	</tr>
 	<tr>
 		<td colspan="3" style="text-align:center">[Каллисто пронзает всех кроме Алиссы своими кольями из костей и плоти.]</td>
