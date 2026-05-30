@@ -6,7 +6,7 @@ title: "Офисы"
 
 <div style="display: flex; gap: 2rem; align-items: flex-start; flex-wrap: wrap;">
 
-<div style="flex: 1; min-width: 50%;">
+<div style="flex: 1; min-width: 200px;">
 
 ## Офис МультиРазлома
 
@@ -24,12 +24,12 @@ title: "Офисы"
 		<th colspan="2" style="text-align:center">Идентичности</th>
 	</tr>
 	<tr>
-		<td style="text-align:center;width:15%">
+		<td style="text-align:center;width:175">
 			<img src="FaustID_MultiCrack_info.png"><br>
 			<img src="000rare.png" style="height:30"><br>
 			<b>Фауст</b><br><i>Представитель Офиса</i>
 		</td>
-		<td style="text-align:center;width:15%">
+		<td style="text-align:center;width:175">
 			<img src="HeathcliffID_MultiCrack_info.png"><br>
 			<img src="00rare.png" style="height:30"><br>
 			<b>Хитклифф</b><br><i>Корректировщик Офиса</i>
