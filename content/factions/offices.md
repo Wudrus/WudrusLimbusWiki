@@ -26,12 +26,12 @@ title: "Офисы"
 	<tr>
 		<td style="text-align:center;width:175px">
 			<img src="FaustID_MultiCrack_info.png"><br>
-			<img src="000rare.png" style="height:30"><br>
+			<img src="000rare.png" style="height:30px"><br>
 			<b>Фауст</b><br><i>Представитель Офиса</i>
 		</td>
 		<td style="text-align:center;width:175px">
 			<img src="HeathcliffID_MultiCrack_info.png"><br>
-			<img src="00rare.png" style="height:30"><br>
+			<img src="00rare.png" style="height:30px"><br>
 			<b>Хитклифф</b><br><i>Корректировщик Офиса</i>
 		</td>
 	</tr>
