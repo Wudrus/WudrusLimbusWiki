@@ -24,13 +24,13 @@ title: "Офисы"
 		<th colspan="2" style="text-align:center">Идентичности</th>
 	</tr>
 	<tr>
-		<td style="text-align:center;width:0">
-			<img src="FaustID_MultiCrack_profile_banner.png"><br>
+		<td style="text-align:center;width:200">
+			<img src="FaustID_MultiCrack_info.png"><br>
 			<img src="000rare.png" style="height:30"><br>
 			<b>Фауст</b><br><i>Представитель Офиса</i>
 		</td>
-		<td style="text-align:center;width:0">
-			<img src="HeathcliffID_MultiCrack_profile_banner.png"><br>
+		<td style="text-align:center;width:200">
+			<img src="HeathcliffID_MultiCrack_info.png"><br>
 			<img src="00rare.png" style="height:30"><br>
 			<b>Хитклифф</b><br><i>Корректировщик Офиса</i>
 		</td>
