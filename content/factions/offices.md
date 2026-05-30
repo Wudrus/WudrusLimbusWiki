@@ -19,17 +19,17 @@ title: "Офисы"
 
 <div style="flex: 0 0 auto;">
 
-<table style="">
+<table>
 	<tr>
 		<th colspan="2" style="text-align:center">Идентичности</th>
 	</tr>
 	<tr>
-		<td style="text-align:center;width:175px">
+		<td style="text-align:center;width:175px; vertical-align:top">
 			<img src="FaustID_MultiCrack_info.png"><br>
-			<img src="000rare.png" style="height:30px"><br>
+			<img src="000rare.png" style="height:30px;"><br>
 			<b>Фауст</b><br><i>Представитель Офиса</i>
 		</td>
-		<td style="text-align:center;width:175px">
+		<td style="text-align:center;width:175px; vertical-align:top">
 			<img src="HeathcliffID_MultiCrack_info.png"><br>
 			<img src="00rare.png" style="height:30px"><br>
 			<b>Хитклифф</b><br><i>Корректировщик Офиса</i>
