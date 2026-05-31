@@ -1,6 +1,18 @@
 ---
 title: "Офисы"
 ---
+<style>
+  /* "Уничтожаем" обёртку Quartz через display: contents */
+  .table-container:has(table) {display: contents !important;}
+  /* Обеспечиваем правильное обтекание для родительских блоков */
+  div:has(> .table-container:has(table[style*="float"])) {overflow: auto !important;}
+  /* Фикс для самой таблицы внутри уничтоженной обёртки */
+  table[style*="float"] {display: table !important;}
+  /* Дополнительно: для левого float */
+  table[style*="float: left"] {float: left !important;margin-right: 20px !important;}
+  /* Для правого float */
+  table[style*="float: right"] {float: right !important;margin-left: 20px !important;}
+</style>
 
 # Известные Офисы
 <div>
