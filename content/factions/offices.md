@@ -41,8 +41,8 @@ title: "Офисы"
 			<th colspan="2">Персонал</th>
 		</tr>
 		<tr>
-			<td style="text-align:center;width:175px"><img src="SL_Sasha.png"><br><b>Саша</b><br><i>Представитель Офиса</i></td>
-			<td style="text-align:center;width:175px"><img src="SL_MultiCrackNorthern.png"><br><b>Корректировщик с Севера</b><br><i>Корректировщик Офиса</i></td>
+			<td style="text-align:center;width:175px;vertical-align:top"><img src="SL_Sasha.png"><br><b>Саша</b><br><i>Представитель Офиса</i></td>
+			<td style="text-align:center;width:175px;vertical-align:top"><img src="SL_MultiCrackNorthern.png"><br><b>Корректировщик с Севера</b><br><i>Корректировщик Офиса</i></td>
 		</tr>
 	</table>
 	<div style="clear:both"></div>
