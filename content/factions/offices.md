@@ -76,7 +76,6 @@ title: "Офисы"
 			<td style="text-align:center;width:200px;vertical-align:top"><img src="SL_Fanghunt.png"><br><b>Охотник за Кроворождёнными</b><br><i>Корректировщик Офиса</i></td>
 		</tr>
 	</table>
-	
 	<div style="clear:both"></div>
 </div>
 
@@ -105,7 +104,7 @@ title: "Офисы"
 			<th colspan="2">Персонал</th>
 		</tr>
 		<tr>
-			<td style="text-align:center;width:200px;vertical-align:top"><img src="SL_FireFist.png"><br><b>Восхищённый Корректировщик Оффиса Огненного Кулака</b><br><i>Корректировщик Офиса</i></td>
+			<td style="text-align:center;width:200px;vertical-align:top"><img src="SL_FireFistO.png"><br><b>Восхищённый Корректировщик Оффиса Огненного Кулака</b><br><i>Корректировщик Офиса</i></td>
 			<td style="text-align:center;width:200px;vertical-align:top"><img src="SL_None.png"><br><b>Старшая Сестрёнка</b><br><i>Корректировщик Офиса</i></td>
 		</tr>
 	</table>
